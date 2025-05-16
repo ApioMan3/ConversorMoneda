@@ -10,7 +10,7 @@ Aplicación de consola en Java para convertir entre monedas utilizando la API de
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - Java 11 o superior
 - Gson (Google)
